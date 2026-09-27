@@ -1,12 +1,17 @@
-## Hi there 👋
+# 👋 EBVN Tech
 
-<!--
+Espace technique de l'association **EBVN**.
 
-**Here are some ideas to get you started:**
+Nous développons et maintenons les outils numériques au service de la vie
+associative : site web, outils de gestion et de vote, ressources pour les
+membres.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌐 En savoir plus
+Site de l'association : [ebvn.fr](https://ebvn.fr)
+
+## 🔧 Projets
+_(à compléter au fil des dépôts)_
+
+## 🤝 Contribuer
+Bénévoles bienvenus — voir CONTRIBUTING.md dans chaque dépôt avant de
+proposer une modification.
